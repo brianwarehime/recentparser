@@ -1,5 +1,5 @@
 # recentparser
-Parses the recent applications and documents in the com.apple.sharedfilelist directory
+Parses the recent applications and documents in the com.apple.sharedfilelist directory. Currently tested on 10.12.2 (Sierra).
 
 Prerequisites:
 
